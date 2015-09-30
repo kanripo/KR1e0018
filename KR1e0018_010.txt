@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋尊王發微
-#+DATE: 2015-09-23 09:39:25
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:12:54.264320
+#+PROPERTY: ID KR1e0018
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1e0018_WYG_010-1a>¶
 欽定四庫全書¶
 　春秋尊王發微卷十¶
@@ -452,4 +454,3 @@
 　¶
 　¶
 　春秋尊王發微卷十¶
-
